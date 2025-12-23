@@ -171,9 +171,9 @@ count_feudalclan_male_arabic_group_independent = {
 	priority = 113
 	governments = { feudal_government clan_government }
 	heritages = { heritage_arabic }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 count_feudalclan_female_arabic_group_independent = {
@@ -184,9 +184,9 @@ count_feudalclan_female_arabic_group_independent = {
 	priority = 113
 	governments = { feudal_government clan_government }
 	heritages = { heritage_arabic }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 count_feudalclan_male_andalusian_independent_christian = {
@@ -198,9 +198,9 @@ count_feudalclan_male_andalusian_independent_christian = {
 	governments = { feudal_government clan_government }
 	name_lists = { name_list_andalusian }
 	religions = { christianity_religion }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 count_feudalclan_female_andalusian_independent_christian = {
@@ -212,9 +212,9 @@ count_feudalclan_female_andalusian_independent_christian = {
 	governments = { feudal_government clan_government }
 	name_lists = { name_list_andalusian }
 	religions = { christianity_religion }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 county_feudalclan_arabic_group_independent = {
@@ -223,9 +223,9 @@ county_feudalclan_arabic_group_independent = {
 	priority = 113
 	governments = { feudal_government clan_government }
 	heritages = { heritage_arabic }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_feudalclan_male_arabic_group = {
@@ -721,9 +721,9 @@ county_feudalclan_andalusian_independent = {
 	priority = 115
 	governments = { feudal_government clan_government }
 	name_lists = { name_list_andalusian }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 title_prince_male_andalusian_christian = {

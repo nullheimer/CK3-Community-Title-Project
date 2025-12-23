@@ -5077,7 +5077,7 @@ CountMaleGreek = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -5095,7 +5095,7 @@ CountFemaleGreek = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -5113,7 +5113,7 @@ CountyGreek = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -5158,7 +5158,7 @@ CountMaleItalian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -5283,7 +5283,7 @@ CountFemaleItalian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -5411,7 +5411,7 @@ CountyItalian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -5495,7 +5495,7 @@ CountMaleRoman = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -5620,7 +5620,7 @@ CountFemaleRoman = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -5748,7 +5748,7 @@ CountyRoman = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -5832,7 +5832,7 @@ CountMaleCisalpine = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -5957,7 +5957,7 @@ CountFemaleCisalpine = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -6085,7 +6085,7 @@ CountyCisalpine = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -6169,7 +6169,7 @@ CountMaleSardinian = {
 			root.top_liege ?= {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -6294,7 +6294,7 @@ CountFemaleSardinian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -6420,7 +6420,7 @@ CountySardinian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -6504,7 +6504,7 @@ CountMaleSicilian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -6629,7 +6629,7 @@ CountFemaleSicilian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -6757,7 +6757,7 @@ CountySicilian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -6841,7 +6841,7 @@ CountMaleLombard = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -6966,7 +6966,7 @@ CountFemaleLombard = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -7094,7 +7094,7 @@ CountyLombard = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -7151,7 +7151,7 @@ CountMaleCroatian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -7169,7 +7169,7 @@ CountFemaleCroatian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -7187,7 +7187,7 @@ CountyCroatian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -7205,7 +7205,7 @@ CountMaleSerbian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -7223,7 +7223,7 @@ CountFemaleSerbian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -7241,7 +7241,7 @@ CountySerbian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -7259,7 +7259,7 @@ CountMaleBulgarian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -7277,7 +7277,7 @@ CountFemaleBulgarian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -7295,7 +7295,7 @@ CountyBulgarian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}

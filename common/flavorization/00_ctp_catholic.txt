@@ -133,8 +133,8 @@ count_male_theo_cath_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 count_female_theo_cath_independent = {
 	type = character
@@ -147,8 +147,8 @@ count_female_theo_cath_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 county_theo_cath_independent = {
 	type = title
@@ -208,8 +208,8 @@ duke_male_theo_cath_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duke_female_theo_cath_independent = {
 	type = character
@@ -222,8 +222,8 @@ duke_female_theo_cath_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duchy_theo_cath_independent = {
 	type = title
@@ -474,8 +474,8 @@ count_male_theo_cath_english_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 count_female_theo_cath_english_independent = {
 	type = character
@@ -489,8 +489,8 @@ count_female_theo_cath_english_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 county_theo_cath_english_independent = {
 	type = title
@@ -555,8 +555,8 @@ duke_male_theo_cath_english_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duke_female_theo_cath_english_independent = {
 	type = character
@@ -570,8 +570,8 @@ duke_female_theo_cath_english_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duchy_theo_cath_english_independent = {
 	type = title
@@ -790,8 +790,8 @@ count_male_theo_cath_old_saxon_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 count_female_theo_cath_old_saxon_independent = {
 	type = character
@@ -805,8 +805,8 @@ count_female_theo_cath_old_saxon_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 county_theo_cath_old_saxon_independent = {
 	type = title
@@ -871,8 +871,8 @@ duke_male_theo_cath_old_saxon_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duke_female_theo_cath_old_saxon_independent = {
 	type = character
@@ -886,8 +886,8 @@ duke_female_theo_cath_old_saxon_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duchy_theo_cath_old_saxon_independent = {
 	type = title
@@ -1147,8 +1147,8 @@ count_male_theo_cath_french_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 count_female_theo_cath_french_independent = {
 	type = character
@@ -1162,8 +1162,8 @@ count_female_theo_cath_french_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 county_theo_cath_french_independent = {
 	type = title
@@ -1228,8 +1228,8 @@ duke_male_theo_cath_french_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duke_female_theo_cath_french_independent = {
 	type = character
@@ -1243,8 +1243,8 @@ duke_female_theo_cath_french_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duchy_theo_cath_french_independent = {
 	type = title
@@ -1360,8 +1360,8 @@ count_male_theo_cath_norman_independent  = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 count_female_theo_cath_norman_independent  = {
 	type = character
@@ -1375,8 +1375,8 @@ count_female_theo_cath_norman_independent  = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 county_theo_cath_norman_independent  = {
 	type = title
@@ -1441,8 +1441,8 @@ duke_male_theo_cath_norman_independent  = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duke_female_theo_cath_norman_independent  = {
 	type = character
@@ -1456,8 +1456,8 @@ duke_female_theo_cath_norman_independent  = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duchy_theo_cath_norman_independent  = {
 	type = title
@@ -1573,8 +1573,8 @@ count_male_theo_cath_occitan_independent  = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 count_female_theo_cath_occitan_independent  = {
 	type = character
@@ -1588,8 +1588,8 @@ count_female_theo_cath_occitan_independent  = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 county_theo_cath_occitan_independent = {
 	type = title
@@ -1654,8 +1654,8 @@ duke_male_theo_cath_occitan_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duke_female_theo_cath_occitan_independent = {
 	type = character
@@ -1669,8 +1669,8 @@ duke_female_theo_cath_occitan_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duchy_theo_cath_occitan_independent = {
 	type = title
@@ -1810,8 +1810,8 @@ count_male_theo_cath_basque_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 county_theo_cath_basque_independent = {
 	type = title
@@ -1862,8 +1862,8 @@ duke_male_theo_cath_basque_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duchy_theo_cath_basque_independent = {
 	type = title
@@ -1886,9 +1886,9 @@ pope_man_castilian = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_castilian }
-	only_holder = yes
 }
 pope_woman_castilian = {
 	type = character
@@ -1898,9 +1898,9 @@ pope_woman_castilian = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_castilian }
-	only_holder = yes
 }
 grand_master_male_cath_castilian = {
 	type = character
@@ -2031,8 +2031,8 @@ count_male_theo_cath_castilian_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 count_female_theo_cath_castilian_independent = {
 	type = character
@@ -2046,8 +2046,8 @@ count_female_theo_cath_castilian_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 county_theo_cath_castilian_independent = {
 	type = title
@@ -2112,8 +2112,8 @@ duke_male_theo_cath_castilian_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duke_female_theo_cath_castilian_independent = {
 	type = character
@@ -2127,8 +2127,8 @@ duke_female_theo_cath_castilian_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duchy_theo_cath_castilian_independent = {
 	type = title
@@ -2151,9 +2151,9 @@ pope_man_catalan = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_catalan }
-	only_holder = yes
 }
 pope_woman_catalan = {
 	type = character
@@ -2163,9 +2163,9 @@ pope_woman_catalan = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_catalan }
-	only_holder = yes
 }
 grand_master_male_cath_catalan = {
 	type = character
@@ -2296,8 +2296,8 @@ count_male_theo_cath_catalan_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 count_female_theo_cath_catalan_independent = {
 	type = character
@@ -2311,8 +2311,8 @@ count_female_theo_cath_catalan_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 county_theo_cath_catalan_independent = {
 	type = title
@@ -2377,8 +2377,8 @@ duke_male_theo_cath_catalan_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duke_female_theo_cath_catalan_independent = {
 	type = character
@@ -2392,8 +2392,8 @@ duke_female_theo_cath_catalan_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duchy_theo_cath_catalan_independent = {
 	type = title
@@ -2416,9 +2416,9 @@ pope_man_portuguese = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_portuguese name_list_galician }
-	only_holder = yes
 }
 pope_woman_portuguese = {
 	type = character
@@ -2428,9 +2428,9 @@ pope_woman_portuguese = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_portuguese name_list_galician }
-	only_holder = yes
 }
 grand_master_male_cath_portuguese = {
 	type = character
@@ -2561,8 +2561,8 @@ count_male_theo_cath_portuguese_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 count_female_theo_cath_portuguese_independent = {
 	type = character
@@ -2576,8 +2576,8 @@ count_female_theo_cath_portuguese_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 county_theo_cath_portuguese_independent = {
 	type = title
@@ -2642,8 +2642,8 @@ duke_male_theo_cath_portuguese_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duke_female_theo_cath_portuguese_independent = {
 	type = character
@@ -2657,8 +2657,8 @@ duke_female_theo_cath_portuguese_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duchy_theo_cath_portuguese_independent = {
 	type = title
@@ -2681,9 +2681,9 @@ pope_man_norse_norwegian = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_norse name_list_norwegian }
-	only_holder = yes
 }
 grand_master_cath_norse_norwegian = {
 	type = character
@@ -2790,9 +2790,9 @@ pope_man_swedish_danish = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_swedish name_list_danish }
-	only_holder = yes
 }
 grand_master_cath_swedish_danish = {
 	type = character
@@ -2899,9 +2899,9 @@ pope_man_saxon = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_saxon }
-	only_holder = yes
 }
 pope_woman_saxon = {
 	type = character
@@ -2911,9 +2911,9 @@ pope_woman_saxon = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_saxon }
-	only_holder = yes
 }
 grand_master_male_cath_saxon = {
 	type = character
@@ -3044,8 +3044,8 @@ count_male_theo_cath_saxon_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 count_female_theo_cath_saxon_independent = {
 	type = character
@@ -3059,8 +3059,8 @@ count_female_theo_cath_saxon_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 county_theo_cath_saxon_independent = {
 	type = title
@@ -3125,8 +3125,8 @@ duke_male_theo_cath_saxon_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duke_female_theo_cath_saxon_independent = {
 	type = character
@@ -3140,8 +3140,8 @@ duke_female_theo_cath_saxon_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duchy_theo_cath_saxon_independent = {
 	type = title
@@ -3227,9 +3227,9 @@ pope_man_mhg = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_franconian name_list_swabian name_list_bavarian }
-	only_holder = yes
 }
 pope_woman_mhg = {
 	type = character
@@ -3239,9 +3239,9 @@ pope_woman_mhg = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_franconian name_list_swabian name_list_bavarian }
-	only_holder = yes
 }
 grand_master_male_cath_mhg = {
 	type = character
@@ -3372,8 +3372,8 @@ count_male_theo_cath_mhg_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 count_female_theo_cath_mhg_independent = {
 	type = character
@@ -3387,8 +3387,8 @@ count_female_theo_cath_mhg_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 county_theo_cath_mhg_independent = {
 	type = title
@@ -3453,8 +3453,8 @@ duke_male_theo_cath_mhg_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duke_female_theo_cath_mhg_independent = {
 	type = character
@@ -3468,8 +3468,8 @@ duke_female_theo_cath_mhg_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duchy_theo_cath_mhg_independent = {
 	type = title
@@ -3554,9 +3554,9 @@ pope_dutch = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_dutch }
-	only_holder = yes
 }
 grand_master_cath_dutch = {
 	type = character
@@ -3641,8 +3641,8 @@ count_theo_cath_dutch_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 county_theo_cath_dutch_independent = {
 	type = title
@@ -3691,8 +3691,8 @@ duke_theo_cath_dutch_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duchy_theo_cath_dutch_independent = {
 	type = title
@@ -3763,9 +3763,9 @@ pope_man_arabic = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	heritages = { heritage_arabic }
-	only_holder = yes
 }
 pope_woman_arabic = {
 	type = character
@@ -3775,9 +3775,9 @@ pope_woman_arabic = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	heritages = { heritage_arabic }
-	only_holder = yes
 }
 grand_master_male_cath_arabic = {
 	type = character
@@ -4131,7 +4131,7 @@ duke_female_theo_cath_andalusian = {
 		only_holder = yes
 	}
 }
-duchy_theo_cath_andalusian = {
+duchy_theo_cath_andalusian_0 = { #hash collision fix
 	type = title
 	tier = duchy
 	priority = 224
@@ -4151,9 +4151,9 @@ pope_man_greek = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_greek }
-	only_holder = yes
 }
 pope_woman_greek = {
 	type = character
@@ -4163,9 +4163,9 @@ pope_woman_greek = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_greek }
-	only_holder = yes
 }
 count_male_theo_cath_greek = {
 	type = character
@@ -4253,9 +4253,9 @@ pope_man_serbian = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_serbian name_list_bosnian }
-	only_holder = yes
 }
 count_male_theo_cath_serbian = {
 	type = character
@@ -4306,9 +4306,9 @@ pope_man_pommeranian = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_pommeranian }
-	only_holder = yes
 }
 pope_woman_pommeranian = {
 	type = character
@@ -4318,9 +4318,9 @@ pope_woman_pommeranian = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_pommeranian }
-	only_holder = yes
 }
 baron_male_theo_cath_pommeranian = {
 	type = character
@@ -4459,9 +4459,9 @@ pope_man_czech = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_czech }
-	only_holder = yes
 }
 pope_woman_czech = {
 	type = character
@@ -4471,9 +4471,9 @@ pope_woman_czech = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_czech }
-	only_holder = yes
 }
 baron_male_theo_cath_czech = {
 	type = character
@@ -4612,9 +4612,9 @@ pope_man_polish = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_polish }
-	only_holder = yes
 }
 pope_woman_polish = {
 	type = character
@@ -4624,9 +4624,9 @@ pope_woman_polish = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_polish }
-	only_holder = yes
 }
 grand_master_male_cath_polish  = {
 	type = character
@@ -4871,9 +4871,9 @@ pope_man_russian = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_russian }
-	only_holder = yes
 }
 pope_woman_russian = {
 	type = character
@@ -4883,9 +4883,9 @@ pope_woman_russian = {
 	titles = { k_papal_state }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 	name_lists = { name_list_russian }
-	only_holder = yes
 }
 baron_male_theo_cath_russian = {
 	type = character

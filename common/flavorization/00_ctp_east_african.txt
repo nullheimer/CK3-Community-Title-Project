@@ -519,8 +519,8 @@ count_feudalclan_male_holder_nubian_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 count_feudalclan_female_holder_nubian_independent = {
 	type = character
@@ -533,8 +533,8 @@ count_feudalclan_female_holder_nubian_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 county_feudalclan_nubian_independent = {
 	type = title

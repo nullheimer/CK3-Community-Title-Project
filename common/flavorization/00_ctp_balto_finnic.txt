@@ -85,9 +85,9 @@ count_feudalclan_male_finnish_independent = {
 	priority = 114
 	name_lists = { name_list_finnish }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 count_feudalclan_female_finnish_independent = {
@@ -98,9 +98,9 @@ count_feudalclan_female_finnish_independent = {
 	priority = 114
 	name_lists = { name_list_finnish }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 county_feudalclan_finnish_independent = {
@@ -156,9 +156,9 @@ duke_male_finnish_independent = {
 	priority = 124
 	name_lists = { name_list_finnish }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_female_finnish_independent = {
@@ -169,9 +169,9 @@ duke_female_finnish_independent = {
 	priority = 124
 	name_lists = { name_list_finnish }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duchy_finnish_independent = {
@@ -837,9 +837,9 @@ duke_feudalclan_male_estonian_independent = {
 	priority = 124
 	name_lists = { name_list_estonian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_feudalclan_female_estonian_independent = {
@@ -850,9 +850,9 @@ duke_feudalclan_female_estonian_independent = {
 	priority = 124
 	name_lists = { name_list_estonian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duchy_feudalclan_estonian_independent = {
@@ -1322,9 +1322,9 @@ duke_feudalclan_male_karelian_independent = {
 	priority = 124
 	name_lists = { name_list_karelian }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_feudalclan_female_karelian_independent = {
@@ -1335,9 +1335,9 @@ duke_feudalclan_female_karelian_independent = {
 	priority = 124
 	name_lists = { name_list_karelian }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duchy_feudalclan_karelian_independent = {
@@ -1776,9 +1776,9 @@ duke_feudalclan_male_vepsian_independent = {
 	priority = 124
 	name_lists = { name_list_vepsian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_feudalclan_female_vepsian_independent = {
@@ -1789,9 +1789,9 @@ duke_feudalclan_female_vepsian_independent = {
 	priority = 124
 	name_lists = { name_list_vepsian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duchy_feudalclan_vepsian_independent = {

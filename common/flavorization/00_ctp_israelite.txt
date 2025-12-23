@@ -116,9 +116,9 @@ duke_male_ashkenazi_independent = {
 	tier = duchy
 	name_lists = { name_list_ashkenazi }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_female_ashkenazi_independent = {
@@ -129,9 +129,9 @@ duke_female_ashkenazi_independent = {
 	tier = duchy
 	name_lists = { name_list_ashkenazi }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duchy_ashkenazi_independent = {
@@ -140,9 +140,9 @@ duchy_ashkenazi_independent = {
 	tier = duchy
 	name_lists = { name_list_ashkenazi }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 king_male_ashkenazi = {
@@ -397,9 +397,9 @@ duke_male_sephardi_independent = {
 	tier = duchy
 	name_lists = { name_list_sephardi }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_female_sephardi_independent = {
@@ -410,9 +410,9 @@ duke_female_sephardi_independent = {
 	tier = duchy
 	name_lists = { name_list_sephardi }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duchy_sephardi_independent = {
@@ -421,9 +421,9 @@ duchy_sephardi_independent = {
 	tier = duchy
 	name_lists = { name_list_sephardi }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 king_male_sephardi = {

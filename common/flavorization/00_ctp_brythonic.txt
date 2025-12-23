@@ -591,9 +591,9 @@ count_feudalclan_male_welsh_independent = {
 	tier = county
 	name_lists = { name_list_welsh }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 count_feudalclan_female_welsh_independent = {
@@ -604,9 +604,9 @@ count_feudalclan_female_welsh_independent = {
 	tier = county
 	name_lists = { name_list_welsh }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 county_feudalclan_welsh_independent = {
@@ -1160,9 +1160,9 @@ duke_male_breton_independent = {
 	tier = duchy
 	name_lists = { name_list_breton }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duchy_breton_independent = {
@@ -1171,9 +1171,9 @@ duchy_breton_independent = {
 	tier = duchy
 	name_lists = { name_list_breton }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_female_breton_independent = {
@@ -1184,9 +1184,9 @@ duke_female_breton_independent = {
 	tier = duchy
 	name_lists = { name_list_breton }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 king_male_breton = {
@@ -1689,9 +1689,9 @@ duke_feudalclan_male_cornish_independent = {
 	tier = duchy
 	name_lists = { name_list_cornish }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_feudalclan_female_cornish_independent = {
@@ -1702,9 +1702,9 @@ duke_feudalclan_female_cornish_independent = {
 	tier = duchy
 	name_lists = { name_list_cornish }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duchy_feudalclan_cornish_independent = {
@@ -1713,9 +1713,9 @@ duchy_feudalclan_cornish_independent = {
 	tier = duchy
 	name_lists = { name_list_cornish }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 king_male_cornish = {

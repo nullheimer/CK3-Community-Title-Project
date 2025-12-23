@@ -119,9 +119,9 @@ duke_male_frankish_independent = {
 	tier = duchy
 	name_lists = { name_list_frankish }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_female_frankish_independent = {
@@ -132,9 +132,9 @@ duke_female_frankish_independent = {
 	tier = duchy
 	name_lists = { name_list_frankish }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duchy_frankish_independent = {
@@ -143,9 +143,9 @@ duchy_frankish_independent = {
 	tier = duchy
 	name_lists = { name_list_frankish }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 king_male_frankish = {
@@ -433,9 +433,9 @@ duke_male_french_independent = {
 	tier = duchy
 	name_lists = { name_list_french }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_female_french_independent = {
@@ -446,9 +446,9 @@ duke_female_french_independent = {
 	tier = duchy
 	name_lists = { name_list_french }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duchy_french_independent = {
@@ -457,9 +457,9 @@ duchy_french_independent = {
 	tier = duchy
 	name_lists = { name_list_french }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 king_male_french = {
@@ -859,9 +859,9 @@ duke_male_norman_independent = {
 	tier = duchy
 	name_lists = { name_list_norman }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_female_norman_independent = {
@@ -872,9 +872,9 @@ duke_female_norman_independent = {
 	tier = duchy
 	name_lists = { name_list_norman }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duchy_norman_independent = {
@@ -883,9 +883,9 @@ duchy_norman_independent = {
 	tier = duchy
 	name_lists = { name_list_norman }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 king_male_norman = {
@@ -1155,7 +1155,7 @@ baron_male_occitan = {
 		top_liege = no
 	}
 }
-baron_female_occitan = {
+baron_female_occitan_0 = { #hash collision fix
 	type = character
 	gender = female
 	special = holder
@@ -1253,9 +1253,9 @@ duke_male_occitan_independent = {
 	tier = duchy
 	name_lists = { name_list_occitan }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_female_occitan_independent = {
@@ -1266,9 +1266,9 @@ duke_female_occitan_independent = {
 	tier = duchy
 	name_lists = { name_list_occitan }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duchy_occitan_independent = {
@@ -1277,9 +1277,9 @@ duchy_occitan_independent = {
 	tier = duchy
 	name_lists = { name_list_occitan }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 king_male_occitan = {

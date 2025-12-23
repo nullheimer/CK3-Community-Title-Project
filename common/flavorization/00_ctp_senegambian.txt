@@ -168,8 +168,8 @@ duke_male_holder_pulaar_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duke_male_pulaar_independent = {
 	type = character
@@ -195,8 +195,8 @@ duke_female_holder_pulaar_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 duke_female_pulaar_independent = {
 	type = character

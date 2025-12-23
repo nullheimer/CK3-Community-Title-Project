@@ -93,9 +93,9 @@ count_male_norse_norwegian_independent = {
 	priority = 114
 	governments = { feudal_government clan_government tribal_government }
 	name_lists = { name_list_norse name_list_norwegian }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 count_female_norse_norwegian_independent = {
@@ -106,9 +106,9 @@ count_female_norse_norwegian_independent = {
 	priority = 114
 	governments = { feudal_government clan_government tribal_government }
 	name_lists = { name_list_norse name_list_norwegian }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 county_norse_norwegian_independent = {
@@ -164,9 +164,9 @@ duke_male_norse_norwegian_independent = {
 	priority = 124
 	governments = { feudal_government clan_government tribal_government }
 	name_lists = { name_list_norse name_list_norwegian }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_female_norse_norwegian_independent = {
@@ -177,9 +177,9 @@ duke_female_norse_norwegian_independent = {
 	priority = 124
 	governments = { feudal_government clan_government tribal_government }
 	name_lists = { name_list_norse name_list_norwegian }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duchy_norse_norwegian_independent = {
@@ -188,9 +188,9 @@ duchy_norse_norwegian_independent = {
 	priority = 124
 	governments = { feudal_government clan_government tribal_government }
 	name_lists = { name_list_norse name_list_norwegian }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 king_male_norse_norwegian = {
@@ -507,9 +507,9 @@ count_male_swedish_danish_independent = {
 	priority = 114
 	governments = { feudal_government clan_government tribal_government }
 	name_lists = { name_list_swedish name_list_danish }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 count_female_swedish_danish_independent = {
@@ -520,9 +520,9 @@ count_female_swedish_danish_independent = {
 	priority = 114
 	governments = { feudal_government clan_government tribal_government }
 	name_lists = { name_list_swedish name_list_danish }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 county_swedish_danish_independent = {
@@ -578,9 +578,9 @@ duke_male_swedish_danish_independent = {
 	priority = 124
 	governments = { feudal_government clan_government tribal_government }
 	name_lists = { name_list_swedish name_list_danish }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_female_swedish_danish_independent = {
@@ -591,9 +591,9 @@ duke_female_swedish_danish_independent = {
 	priority = 124
 	governments = { feudal_government clan_government tribal_government }
 	name_lists = { name_list_swedish name_list_danish }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duchy_swedish_danish_independent = {
@@ -602,9 +602,9 @@ duchy_swedish_danish_independent = {
 	priority = 124
 	governments = { feudal_government clan_government tribal_government }
 	name_lists = { name_list_swedish name_list_danish }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 king_male_swedish_danish = {

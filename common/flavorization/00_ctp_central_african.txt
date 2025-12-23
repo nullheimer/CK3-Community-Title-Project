@@ -610,9 +610,9 @@ duke_male_hausa_independent = {
 	tier = duchy
 	name_lists = { name_list_hausa }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_female_holder_hausa_independent = {
@@ -623,10 +623,10 @@ duke_female_holder_hausa_independent = {
 	tier = duchy
 	name_lists = { name_list_hausa }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
 }
 duke_female_hausa_independent = {
@@ -637,9 +637,9 @@ duke_female_hausa_independent = {
 	tier = duchy
 	name_lists = { name_list_hausa }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duchy_hausa_independent = {
@@ -648,9 +648,9 @@ duchy_hausa_independent = {
 	tier = duchy
 	name_lists = { name_list_hausa }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 king_male_hausa = {

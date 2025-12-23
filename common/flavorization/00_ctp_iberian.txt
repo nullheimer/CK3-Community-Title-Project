@@ -560,7 +560,9 @@ duke_feudalclan_male_castilian_independent = {
 	tier = duchy
 	name_lists = { name_list_castilian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 duke_feudalclan_female_castilian_independent = {
 	type = character
@@ -570,7 +572,9 @@ duke_feudalclan_female_castilian_independent = {
 	tier = duchy
 	name_lists = { name_list_castilian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 duchy_feudalclan_castilian_independent = {
 	type = title
@@ -578,7 +582,9 @@ duchy_feudalclan_castilian_independent = {
 	tier = duchy
 	name_lists = { name_list_castilian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 king_male_castilian = {
 	type = character
@@ -1041,7 +1047,9 @@ duke_feudalclan_male_catalan_independent = {
 	tier = duchy
 	name_lists = { name_list_catalan }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 duke_feudalclan_female_catalan_independent = {
 	type = character
@@ -1051,7 +1059,9 @@ duke_feudalclan_female_catalan_independent = {
 	tier = duchy
 	name_lists = { name_list_catalan }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 duchy_feudalclan_catalan_independent = {
 	type = title
@@ -1059,7 +1069,9 @@ duchy_feudalclan_catalan_independent = {
 	tier = duchy
 	name_lists = { name_list_catalan }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 king_male_catalan = {
 	type = character
@@ -1523,7 +1535,9 @@ duke_feudalclan_male_portugese_independent = {
 	tier = duchy
 	name_lists = { name_list_portuguese name_list_galician }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 duke_feudalclan_female_portugese_independent = {
 	type = character
@@ -1533,7 +1547,9 @@ duke_feudalclan_female_portugese_independent = {
 	tier = duchy
 	name_lists = { name_list_portuguese name_list_galician }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 duchy_feudalclan_portugese_independent = {
 	type = title
@@ -1541,7 +1557,9 @@ duchy_feudalclan_portugese_independent = {
 	tier = duchy
 	name_lists = { name_list_portuguese name_list_galician }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 king_male_portugese = {
 	type = character
@@ -1977,7 +1995,9 @@ duke_feudalclan_male_visigothic_independent = {
 	tier = duchy
 	name_lists = { name_list_visigothic }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 duke_feudalclan_female_visigothic_independent = {
 	type = character
@@ -1987,7 +2007,9 @@ duke_feudalclan_female_visigothic_independent = {
 	tier = duchy
 	name_lists = { name_list_visigothic }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 duchy_feudalclan_visigothic_independent = {
 	type = title
@@ -1995,7 +2017,9 @@ duchy_feudalclan_visigothic_independent = {
 	tier = duchy
 	name_lists = { name_list_visigothic }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 king_male_visigothic = {
 	type = character
@@ -2458,7 +2482,9 @@ duke_feudalclan_male_asturleonese_independent = {
 	tier = duchy
 	name_lists = { name_list_asturleonese }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 duke_feudalclan_female_asturleonese_independent = {
 	type = character
@@ -2468,7 +2494,9 @@ duke_feudalclan_female_asturleonese_independent = {
 	tier = duchy
 	name_lists = { name_list_asturleonese }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 duchy_feudalclan_asturleonese_independent = {
 	type = title
@@ -2476,7 +2504,9 @@ duchy_feudalclan_asturleonese_independent = {
 	tier = duchy
 	name_lists = { name_list_asturleonese }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 king_male_asturleonese = {
 	type = character
@@ -2953,7 +2983,9 @@ duke_feudalclan_male_aragonese_independent = {
 	tier = duchy
 	name_lists = { name_list_aragonese }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 duke_feudalclan_female_aragonese_independent = {
 	type = character
@@ -2963,7 +2995,9 @@ duke_feudalclan_female_aragonese_independent = {
 	tier = duchy
 	name_lists = { name_list_aragonese }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 duchy_feudalclan_aragonese_independent = {
 	type = title
@@ -2971,7 +3005,9 @@ duchy_feudalclan_aragonese_independent = {
 	tier = duchy
 	name_lists = { name_list_aragonese }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 king_male_aragonese = {
 	type = character

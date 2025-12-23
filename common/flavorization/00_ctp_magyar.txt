@@ -124,8 +124,8 @@ count_feudalclan_female_holder_mogyer_independent = {
 	flavourization_rules = {
 		top_liege = no
 		only_holder = yes
+		only_independent = yes
 	}
-	only_independent = yes
 }
 county_feudalclan_mogyer_independent = {
 	type = title
@@ -168,11 +168,11 @@ duke_feudalclan_holder_female_mogyer = {
 	special = holder
 	tier = duchy
 	priority = 124
-	only_holder = yes
 	name_lists = { name_list_mogyer }
 	governments = { feudal_government clan_government }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 }
 duchy_feudalclan_mogyer = { 
@@ -193,7 +193,9 @@ duke_feudalclan_male_mogyer_independent = {
 	tier = duchy
 	name_lists = { name_list_mogyer }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 duke_feudalclan_female_mogyer_independent = {
 	type = character
@@ -203,7 +205,9 @@ duke_feudalclan_female_mogyer_independent = {
 	tier = duchy
 	name_lists = { name_list_mogyer }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 duchy_feudalclan_mogyer_independent = { 
 	type = title
@@ -280,10 +284,10 @@ emperor_female_holder_mogyer = {
 	priority = 154
 	tier = empire
 	name_lists = { name_list_mogyer }
-	only_holder = yes
 	governments = { feudal_government clan_government tribal_government republic_government }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 }
 empire_mogyer = {
@@ -350,7 +354,7 @@ title_prince_male_mogyer_byzantine = {
 	special = ruler_child
 	tier = empire
 	priority = 151
-	titles = { e_byzantium e_roman_empire }
+	titles = { e_byzantium h_roman_empire }
 	name_lists = { name_list_mogyer }
 	governments = { feudal_government clan_government tribal_government republic_government }
 	flavourization_rules = {
@@ -363,7 +367,7 @@ title_prince_female_mogyer_byzantine = {
 	special = ruler_child
 	tier = empire
 	priority = 151
-	titles = { e_byzantium e_roman_empire }
+	titles = { e_byzantium h_roman_empire }
 	name_lists = { name_list_mogyer }
 	governments = { feudal_government clan_government tribal_government republic_government }
 	flavourization_rules = {
@@ -724,7 +728,9 @@ count_feudalclan_female_hungarian_independent = {
 	tier = county
 	name_lists = { name_list_hungarian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 count_feudalclan_female_holder_hungarian_independent = {
 	type = character
@@ -734,8 +740,10 @@ count_feudalclan_female_holder_hungarian_independent = {
 	tier = county
 	name_lists = { name_list_hungarian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
-	only_holder = yes
+	flavourization_rules = {
+		only_independent = yes
+		only_holder = yes
+	}
 }
 county_feudalclan_hungarian_independent = {
 	type = title
@@ -778,11 +786,11 @@ duke_feudalclan_holder_female_hungarian = {
 	special = holder
 	tier = duchy
 	priority = 124
-	only_holder = yes
 	name_lists = { name_list_hungarian }
 	governments = { feudal_government clan_government }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 }
 duchy_feudalclan_hungarian = { 
@@ -816,7 +824,9 @@ duke_feudalclan_female_hungarian_independent = {
 	tier = duchy
 	name_lists = { name_list_hungarian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 duchy_feudalclan_hungarian_independent = { 
 	type = title
@@ -859,11 +869,11 @@ king_holder_female_hungarian = {
 	special = holder
 	tier = kingdom
 	priority = 144
-	only_holder = yes
 	name_lists = { name_list_hungarian }
 	governments = { feudal_government clan_government }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 }
 kingdom_hungarian = {
@@ -906,11 +916,11 @@ emperor_holder_female_hungarian = {
 	special = holder
 	tier = empire
 	priority = 154
-	only_holder = yes
 	name_lists = { name_list_hungarian }
 	governments = { feudal_government clan_government }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 }
 empire_hungarian = {
@@ -977,7 +987,7 @@ title_prince_male_hungarian_byzantine = {
 	special = ruler_child
 	tier = empire
 	priority = 151
-	titles = { e_byzantium e_roman_empire }
+	titles = { e_byzantium h_roman_empire }
 	name_lists = { name_list_hungarian }
 	governments = { feudal_government clan_government tribal_government republic_government }
 	flavourization_rules = {
@@ -990,7 +1000,7 @@ title_prince_female_hungarian_byzantine = {
 	special = ruler_child
 	tier = empire
 	priority = 151
-	titles = { e_byzantium e_roman_empire }
+	titles = { e_byzantium h_roman_empire }
 	name_lists = { name_list_hungarian }
 	governments = { feudal_government clan_government tribal_government republic_government }
 	flavourization_rules = {

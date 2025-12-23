@@ -711,7 +711,7 @@
    
    duke_male_theo_cath_andalusian: "ʾArṣubišbū"
    duke_female_theo_cath_andalusian: "ʾArṣubišba"
-   duchy_theo_cath_andalusian: "ʾArṣubišbiyya"
+   duchy_theo_cath_andalusian_0: "ʾArṣubišbiyya" #hash collision fix
 ########################################################
   #Greek
 ########################################################

@@ -975,7 +975,7 @@
   #Occitan
 ########################################################
    baron_male_occitan: "Vescoms"
-   baron_female_occitan: "Vescomtessa"
+   baron_female_occitan_0: "Vescomtessa" #hash collision fix
    barony_castle_occitan: "Vescomtatz"
  
    count_male_occitan: "[CHARACTER.Custom('CountMaleOccitan')]"

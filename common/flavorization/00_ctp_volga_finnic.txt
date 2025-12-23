@@ -153,9 +153,9 @@ duke_male_mordvin_independent = {
 	tier = duchy
 	name_lists = { name_list_mordvin }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_female_mordvin_independent = {
@@ -166,9 +166,9 @@ duke_female_mordvin_independent = {
 	tier = duchy
 	name_lists = { name_list_mordvin }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duchy_mordvin_independent = {
@@ -177,9 +177,9 @@ duchy_mordvin_independent = {
 	tier = duchy
 	name_lists = { name_list_mordvin }
 	governments = { feudal_government clan_government tribal_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 king_male_mordvin = {

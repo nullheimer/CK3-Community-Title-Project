@@ -7176,7 +7176,7 @@ DukeMaleGreek = {
 			top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 			OR = {
@@ -7231,7 +7231,7 @@ DukeMaleGreek = {
 			top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -7252,7 +7252,7 @@ DukeFemaleGreek = {
 			top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 			OR = {
@@ -7307,7 +7307,7 @@ DukeFemaleGreek = {
 			top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -7326,7 +7326,7 @@ DuchyGreek = {
 			top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 			vassal_contract_has_flag = has_march_contract
@@ -7351,7 +7351,7 @@ DuchyGreek = {
 			top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -7540,7 +7540,7 @@ DukeMaleAssyrian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -7586,7 +7586,7 @@ DukeFemaleAssyrian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -7616,7 +7616,7 @@ DuchyAssyrian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -7689,7 +7689,7 @@ DukeMaleItalian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -7842,7 +7842,7 @@ DukeFemaleItalian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -7980,7 +7980,7 @@ DuchyItalian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -8102,7 +8102,7 @@ DukeMaleRoman = { ##Unusually set but should work
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -8261,7 +8261,7 @@ DukeFemaleRoman = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -8405,7 +8405,7 @@ DuchyRoman = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -8527,7 +8527,7 @@ DukeMaleCisalpine = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -8680,7 +8680,7 @@ DukeFemaleCisalpine = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -8818,7 +8818,7 @@ DuchyCisalpine = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -8940,7 +8940,7 @@ DukeMaleSardinian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -9093,7 +9093,7 @@ DukeFemaleSardinian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -9231,7 +9231,7 @@ DuchySardinian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -9353,7 +9353,7 @@ DukeMaleSicilian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -9506,7 +9506,7 @@ DukeFemaleSicilian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -9644,7 +9644,7 @@ DuchySicilian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -9766,7 +9766,7 @@ DukeMaleLombard = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -9919,7 +9919,7 @@ DukeFemaleLombard = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -10057,7 +10057,7 @@ DuchyLombard = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -10196,7 +10196,7 @@ DuchyCroatian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -10296,7 +10296,7 @@ DuchySerbian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}

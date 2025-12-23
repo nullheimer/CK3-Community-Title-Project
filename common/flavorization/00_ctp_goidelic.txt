@@ -302,10 +302,10 @@ baron_republic_male_goidelic_group = {
 	special = holder
 	priority = 102
 	heritages = { heritage_goidelic }
-	only_holder = yes
 	governments = { republic_government }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 }
 baron_republic_female_goidelic_group = {
@@ -315,10 +315,10 @@ baron_republic_female_goidelic_group = {
 	special = holder
 	priority = 102
 	heritages = { heritage_goidelic }
-	only_holder = yes
 	governments = { republic_government }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 }
 barony_city_goidelic_group = {
@@ -338,10 +338,10 @@ count_republic_male_goidelic_group = {
 	special = holder
 	priority = 113
 	heritages = { heritage_goidelic }
-	only_holder = yes
 	governments = { republic_government }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 }
 count_republic_female_goidelic_group = {
@@ -351,10 +351,10 @@ count_republic_female_goidelic_group = {
 	special = holder
 	priority = 113
 	heritages = { heritage_goidelic }
-	only_holder = yes
 	governments = { republic_government }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 }
 county_republic_goidelic_group = {
@@ -374,10 +374,10 @@ duke_republic_male_goidelic_group = {
 	special = holder
 	priority = 122
 	heritages = { heritage_goidelic }
-	only_holder = yes
 	governments = { republic_government }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 }
 duke_republic_female_goidelic_group = {
@@ -387,10 +387,10 @@ duke_republic_female_goidelic_group = {
 	special = holder
 	priority = 122
 	heritages = { heritage_goidelic }
-	only_holder = yes
 	governments = { republic_government }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 }
 duchy_republic_goidelic_group = {
@@ -410,10 +410,10 @@ king_republic_male_goidelic_group = {
 	special = holder
 	priority = 142
 	heritages = { heritage_goidelic }
-	only_holder = yes
 	governments = { republic_government }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 }
 king_republic_female_goidelic_group = {
@@ -423,10 +423,10 @@ king_republic_female_goidelic_group = {
 	special = holder
 	priority = 142
 	heritages = { heritage_goidelic }
-	only_holder = yes
 	governments = { republic_government }
 	flavourization_rules = {
 		top_liege = no
+		only_holder = yes
 	}
 }
 kingdom_republic_goidelic_group = {

@@ -112,7 +112,7 @@ BaronMaleItalian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -130,7 +130,7 @@ BaronFemaleItalian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -148,7 +148,7 @@ BaronyItalian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -166,7 +166,7 @@ BaronMaleRoman = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -184,7 +184,7 @@ BaronFemaleRoman = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -202,7 +202,7 @@ BaronyRoman = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -220,7 +220,7 @@ BaronMaleCisalpine = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -239,7 +239,7 @@ BaronFemaleCisalpine = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -257,7 +257,7 @@ BaronyCisalpine = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -275,7 +275,7 @@ BaronMaleSardinian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -311,7 +311,7 @@ BaronMaleSardinian = {
 				}
 			}
 		}
-		localization_key = baron_blank
+		localization_key = ctp_blank
 	}
 	text = {
 		localization_key = baron_male_sardinian_default
@@ -326,7 +326,7 @@ BaronFemaleSardinian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -362,7 +362,7 @@ BaronFemaleSardinian = {
 				}
 			}
 		}
-		localization_key = baron_blank
+		localization_key = ctp_blank
 	}
 	text = {
 		localization_key = baron_female_sardinian_default
@@ -376,7 +376,7 @@ BaronySardinian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -475,7 +475,7 @@ BaronMaleSicilian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -493,7 +493,7 @@ BaronFemaleSicilian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -511,7 +511,7 @@ BaronySicilian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -529,7 +529,7 @@ BaronMaleLombard = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -548,7 +548,7 @@ BaronFemaleLombard = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -566,7 +566,7 @@ BaronyLombard = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -584,7 +584,7 @@ BaronMaleCroatian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -602,7 +602,7 @@ BaronFemaleCroatian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -620,7 +620,7 @@ BaronyCroatian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -638,7 +638,7 @@ BaronMaleSerbian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -657,7 +657,7 @@ BaronFemaleSerbian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -675,7 +675,7 @@ BaronySerbian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -693,7 +693,7 @@ BaronMaleBulgarian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -712,7 +712,7 @@ BaronFemaleBulgarian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -730,7 +730,7 @@ BaronyBulgarian = {
 			root.top_liege = {
 				OR = {
 					has_primary_title = title:e_byzantium
-					has_primary_title = title:e_roman_empire
+					has_primary_title = title:h_roman_empire
 				}
 			}
 		}
@@ -773,7 +773,7 @@ BaronMaleMogyer = {
 				}
 			}
 		}
-		localization_key = baron_blank
+		localization_key = ctp_blank
 	}
 	text = {
 		localization_key = baron_male_mogyer_default
@@ -813,7 +813,7 @@ BaronFemaleMogyer = {
 				}
 			}
 		}
-		localization_key = baron_blank
+		localization_key = ctp_blank
 	}
 	text = {
 		localization_key = baron_female_mogyer_default
@@ -914,7 +914,7 @@ BaronMaleHung = {
 				}
 			}
 		}
-		localization_key = baron_blank
+		localization_key = ctp_blank
 	}
 	text = {
 		localization_key = baron_male_hung_default
@@ -953,7 +953,7 @@ BaronFemaleHung = {
 				}
 			}
 		}
-		localization_key = baron_blank
+		localization_key = ctp_blank
 	}
 	text = {
 		localization_key = baron_female_hung_default
@@ -992,7 +992,7 @@ BaronFemaleHolderHung = {
 				}
 			}
 		}
-		localization_key = baron_blank
+		localization_key = ctp_blank
 	}
 	text = {
 		localization_key = baron_female_holder_hung_default

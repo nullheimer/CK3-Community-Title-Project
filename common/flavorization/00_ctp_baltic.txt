@@ -860,9 +860,9 @@ duke_feudalclan_male_prussian_independent = {
 	tier = duchy
 	name_lists = { name_list_prussian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_feudalclan_female_prussian_independent = {
@@ -873,9 +873,9 @@ duke_feudalclan_female_prussian_independent = {
 	tier = duchy
 	name_lists = { name_list_prussian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duchy_feudalclan_prussian_independent = {
@@ -884,9 +884,9 @@ duchy_feudalclan_prussian_independent = {
 	tier = duchy
 	name_lists = { name_list_prussian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 king_male_prussian = {

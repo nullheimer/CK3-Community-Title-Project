@@ -119,7 +119,9 @@ count_male_feudalclan_russian_independent = {
 	tier = county
 	name_lists = { name_list_russian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 count_female_feudalclan_russian_independent = {
 	type = character
@@ -129,7 +131,9 @@ count_female_feudalclan_russian_independent = {
 	tier = county
 	name_lists = { name_list_russian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 county_feudalclan_russian_independent = {
 	type = title
@@ -137,7 +141,9 @@ county_feudalclan_russian_independent = {
 	tier = county
 	name_lists = { name_list_russian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
+	flavourization_rules = {
+		only_independent = yes
+	}
 }
 duke_male_russian = {
 	type = character
@@ -272,8 +278,8 @@ title_prince_male_russian = {
 	governments = { feudal_government clan_government tribal_government }
 	flavourization_rules = {
 		top_liege = no
+		only_independent = no
 	}
-	only_independent = no
 }
 title_prince_female_russian = {
 	type = character
@@ -285,8 +291,8 @@ title_prince_female_russian = {
 	governments = { feudal_government clan_government tribal_government }
 	flavourization_rules = {
 		top_liege = no
+		only_independent = no
 	}
-	only_independent = no
 }
 title_prince_male_russian_empire = {
 	type = character
@@ -587,9 +593,9 @@ count_feudalclan_male_ilmenian_independent = {
 	priority = 115
 	name_lists = { name_list_ilmenian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 count_feudalclan_male_severian_independent = {
@@ -600,9 +606,9 @@ count_feudalclan_male_severian_independent = {
 	priority = 115
 	name_lists = { name_list_severian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 count_feudalclan_male_volhynian_independent = {
@@ -613,9 +619,9 @@ count_feudalclan_male_volhynian_independent = {
 	priority = 115
 	name_lists = { name_list_volhynian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 count_feudalclan_female_old_east_slavic_independent = {
@@ -626,9 +632,9 @@ count_feudalclan_female_old_east_slavic_independent = {
 	priority = 114
 	name_lists = { name_list_ilmenian name_list_severian name_list_volhynian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 county_feudalclan_old_east_slavic_independent = {
@@ -637,9 +643,9 @@ county_feudalclan_old_east_slavic_independent = {
 	priority = 115
 	name_lists = { name_list_ilmenian name_list_severian name_list_volhynian }
 	governments = { feudal_government clan_government }
-	only_independent = yes
 	flavourization_rules = {
 		top_liege = no
+		only_independent = yes
 	}
 }
 duke_male_ilmenian = {
